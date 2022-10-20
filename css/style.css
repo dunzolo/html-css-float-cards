@@ -43,21 +43,20 @@ h1{
     color: white;
 }
 
-.col-1{
+.padding-right-20{
     padding-right: 20px;
 }
 
-.col-2{
+.padding-10{
     padding: 0px 10px;
 }
 
-.col-3{
+.padding-left{
     padding-left: 20px;
 }
 
-.content-col{
+.background-col{
     background-color: black;
-
 }
 
 .border-card{
@@ -78,11 +77,11 @@ h3{
 }
 
 .work{
-    margin: 5px 0px;
+    padding: 5px 0px;
 }
 
 .mail{
     color:cyan;
 }
-
+/* fine main */
 
